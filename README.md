@@ -6,8 +6,7 @@ install pipenv to create the virtual environment specify shell to work on like t
 1.  install pipenv
 ```     pip install pipenv```
 2.  create virtual environment in current directory using specific python
-```     pipenv shell python=<version>  ```
-##### 3.8 in this case
+```     pipenv shell python=<version>  ```   3.8 in this case
 3.  install the packages necessary like gunicorn and flask 
 ```     pipenv install <package name/s>    ```
 4.  create file server.py create the application
